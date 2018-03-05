@@ -1,0 +1,28 @@
+
+
+.done {
+    text-decoration: line-through; 
+}
+
+body {
+    font-family: 'Indie Flower', cursive;
+    font-size:30px;
+    padding: 10px 300px; 
+    justify-content: center ;
+    background: linear-gradient(to bottom right, white , black) 
+
+}
+h1 {
+    font-size: 70px;
+    background-color:whitesmoke; 
+    text-align: center;
+}
+
+#todo-list{
+    background-color: whitesmoke;
+    text-align: left;
+}
+.add-todo-list , button {
+    border-radius: 15%;
+    font-family: 'Indie Flower', cursive;
+}
